@@ -13,3 +13,10 @@
     background-color: brown;
     color: blueviolet;
 }
+
+     
+.flags_container img{
+width: 150px;
+padding: 5px;
+object-fit: contain;
+}
