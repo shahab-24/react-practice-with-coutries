@@ -4,4 +4,12 @@
     padding: 15px;
     border-radius: 15px;
 }
+.visited{
+    background-color: blueviolet;
+    color: whitesmoke;
+}
 
+.non-visited{
+    background-color: brown;
+    color: blueviolet;
+}
